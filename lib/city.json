@@ -154886,7 +154886,7 @@
 	},
 	{
 		"id": "30979",
-		"name": "Badagri",
+		"name": "Badagry",
 		"state_id": "2671"
 	},
 	{
@@ -154901,7 +154901,7 @@
 	},
 	{
 		"id": "30982",
-		"name": "Iganmi",
+		"name": "Iganmu",
 		"state_id": "2671"
 	},
 	{
@@ -154916,7 +154916,7 @@
 	},
 	{
 		"id": "30985",
-		"name": "Lagos",
+		"name": "Lagos Island",
 		"state_id": "2671"
 	},
 	{
@@ -242088,5 +242088,66 @@
 		"id": "48416",
 		"name": "Los Roques",
 		"state_id": "4121"
+	},
+
+
+
+
+
+	{
+		"id": "50001",
+		"name": "Kosofe",
+		"state_id": "2671"
+	},
+	{
+		"id": "50002",
+		"name": "Agege",
+		"state_id": "2671"
+	},
+	{
+		"id": "50003",
+		"name": "Alimosho",
+		"state_id": "2671"
+	},
+	{
+		"id": "50004",
+		"name": "Ifako Ijaye",
+		"state_id": "2671"
+	},
+	{
+		"id": "50005",
+		"name": "Mushin",
+		"state_id": "2671"
+	},
+	{
+		"id": "50006",
+		"name": "Oshodi Isolo",
+		"state_id": "2671"
+	},
+	{
+		"id": "50007",
+		"name": "Shomolu",
+		"state_id": "2671"
+	},
+	{
+		"id": "50008",
+		"name": "Eti Osa",
+		"state_id": "2671"
+	},
+	{
+		"id": "50009",
+		"name": "Lagos Mainland",
+		"state_id": "2671"
+	},
+	{
+		"id": "50010",
+		"name": "Ajeromi Ifelodun",
+		"state_id": "2671"
+	},
+	{
+		"id": "50011",
+		"name": "Amuwo Odofin",
+		"state_id": "2671"
 	}
+
 ]
