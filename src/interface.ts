@@ -8,6 +8,7 @@ export interface ICountry {
 export interface IState {
     id: string;
     name: string;
+    sortname?: string;
     country_id: string;
 }
 export interface ICity {

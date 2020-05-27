@@ -13236,16 +13236,19 @@
 	},
 	{
 		"id": "2648",
+		"sortname": "ABV",
 		"name": "Abuja Federal Capital Territory",
 		"country_id": "160"
-	},
+},
 	{
 		"id": "2649",
+		"sortname": "YOL",
 		"name": "Adamawa",
 		"country_id": "160"
 	},
 	{
 		"id": "2650",
+		"sortname": "QUO",
 		"name": "Akwa Ibom",
 		"country_id": "160"
 	},
@@ -13256,6 +13259,7 @@
 	},
 	{
 		"id": "2652",
+		"sortname": "BCU",
 		"name": "Bauchi",
 		"country_id": "160"
 	},
@@ -13266,21 +13270,25 @@
 	},
 	{
 		"id": "2654",
+		"sortname": "MDI",
 		"name": "Benue",
 		"country_id": "160"
 	},
 	{
 		"id": "2655",
+		"sortname": "MIU",
 		"name": "Borno",
 		"country_id": "160"
 	},
 	{
 		"id": "2656",
+		"sortname": "CBQ",
 		"name": "Cross River",
 		"country_id": "160"
 	},
 	{
 		"id": "2657",
+		"sortname": "ABB",
 		"name": "Delta",
 		"country_id": "160"
 	},
@@ -13291,6 +13299,7 @@
 	},
 	{
 		"id": "2659",
+		"sortname": "BNI",
 		"name": "Edo",
 		"country_id": "160"
 	},
@@ -13301,16 +13310,19 @@
 	},
 	{
 		"id": "2661",
+		"sortname": "ENU",
 		"name": "Enugu",
 		"country_id": "160"
 	},
 	{
 		"id": "2662",
+		"sortname": "GMO",
 		"name": "Gombe",
 		"country_id": "160"
 	},
 	{
 		"id": "2663",
+		"sortname": "QOW",
 		"name": "Imo",
 		"country_id": "160"
 	},
@@ -13321,11 +13333,13 @@
 	},
 	{
 		"id": "2665",
+		"sortname": "KAD",
 		"name": "Kaduna",
 		"country_id": "160"
 	},
 	{
 		"id": "2666",
+		"sortname": "KAN",
 		"name": "Kano",
 		"country_id": "160"
 	},
@@ -13346,11 +13360,13 @@
 	},
 	{
 		"id": "2670",
+		"sortname": "ILR",
 		"name": "Kwara",
 		"country_id": "160"
 	},
 	{
 		"id": "2671",
+		"sortname": "LOS",
 		"name": "Lagos",
 		"country_id": "160"
 	},
@@ -13361,6 +13377,7 @@
 	},
 	{
 		"id": "2673",
+		"sortname": "MXJ",
 		"name": "Niger",
 		"country_id": "160"
 	},
@@ -13371,6 +13388,7 @@
 	},
 	{
 		"id": "2675",
+		"sortname": "AKR",
 		"name": "Ondo",
 		"country_id": "160"
 	},
@@ -13381,21 +13399,25 @@
 	},
 	{
 		"id": "2677",
+		"sortname": "IBA",
 		"name": "Oyo",
 		"country_id": "160"
 	},
 	{
 		"id": "2678",
+		"sortname": "JOS",
 		"name": "Plateau",
 		"country_id": "160"
 	},
 	{
 		"id": "2679",
+		"sortname": "PHC",
 		"name": "Rivers",
 		"country_id": "160"
 	},
 	{
 		"id": "2680",
+		"sortname": "SKO",
 		"name": "Sokoto",
 		"country_id": "160"
 	},
