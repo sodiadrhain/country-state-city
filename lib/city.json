@@ -242091,9 +242091,7 @@
 	},
 
 
-
-
-
+	
 	{
 		"id": "50001",
 		"name": "Kosofe",
@@ -242148,6 +242146,301 @@
 		"id": "50011",
 		"name": "Amuwo Odofin",
 		"state_id": "2671"
+	},
+	{
+		"id": "50012",
+		"name": "Uyo",
+		"state_id": "2650"
+	},
+	{
+		"id": "50013",
+		"name": "Ikot Ekpene",
+		"state_id": "2650"
+	},
+	{
+		"id": "50014",
+		"name": "Eket",
+		"state_id": "2650"
+	},
+	{
+		"id": "50015",
+		"name": "Oron",
+		"state_id": "2650"
+	},
+	{
+		"id": "50016",
+		"name": "Ibeno",
+		"state_id": "2650"
+	},
+	{
+		"id": "50017",
+		"name": "Abak",
+		"state_id": "2650"
+	},
+	{
+		"id": "50018",
+		"name": "Itu",
+		"state_id": "2650"
+	},
+	{
+		"id": "50019",
+		"name": "Etinan",
+		"state_id": "2650"
+	},
+	{
+		"id": "50020",
+		"name": "Uruan",
+		"state_id": "2650"
+	},
+	{
+		"id": "50021",
+		"name": "Ibiono Ibom",
+		"state_id": "2650"
+	},
+	{
+		"id": "50022",
+		"name": "Ikot Abasi",
+		"state_id": "2650"
+	},
+	{
+		"id": "50023",
+		"name": "Mkpat Enin",
+		"state_id": "2650"
+	},
+	{
+		"id": "50024",
+		"name": "Oruk Anam",
+		"state_id": "2650"
+	},
+	{
+		"id": "50025",
+		"name": "Ibesikpo Asutan",
+		"state_id": "2650"
+	},
+	{
+		"id": "50026",
+		"name": "Ikono",
+		"state_id": "2650"
+	},
+	{
+		"id": "50027",
+		"name": "Esit Eket",
+		"state_id": "2650"
+	},
+	{
+		"id": "50028",
+		"name": "Nsit Ibom",
+		"state_id": "2650"
+	},
+	{
+		"id": "50029",
+		"name": "Ukanafun",
+		"state_id": "2650"
+	},
+	{
+		"id": "50030",
+		"name": "Obot Akara",
+		"state_id": "2650"
+	},
+	{
+		"id": "50031",
+		"name": "Okobo",
+		"state_id": "2650"
+	},
+	{
+		"id": "50032",
+		"name": "Etim Ekpo",
+		"state_id": "2650"
+	},
+	{
+		"id": "50033",
+		"name": "Onna",
+		"state_id": "2650"
+	},
+	{
+		"id": "50034",
+		"name": "Udung Uko",
+		"state_id": "2650"
+	},
+	{
+		"id": "50035",
+		"name": "Urue Offong/Oruko",
+		"state_id": "2650"
+	},
+	{
+		"id": "50036",
+		"name": "Essienn Udim",
+		"state_id": "2650"
+	},
+	{
+		"id": "50037",
+		"name": "Nsit Atai",
+		"state_id": "2650"
+	},
+	{
+		"id": "50038",
+		"name": "Ini",
+		"state_id": "2650"
+	},
+	{
+		"id": "50039",
+		"name": "Nsit Ubium",
+		"state_id": "2650"
+	},
+	{
+		"id": "50040",
+		"name": "Mbo",
+		"state_id": "2650"
+	},
+	{
+		"id": "50041",
+		"name": "Eastern Obolo",
+		"state_id": "2650"
+	},
+	{
+		"id": "50042",
+		"name": "Ikot Abasi",
+		"state_id": "2650"
+	},
+	{
+		"id": "50043",
+		"name": "Ika",
+		"state_id": "2650"
+	},
+	{
+		"id": "50044",
+		"name": "Afaha",
+		"state_id": "2650"
+	},
+	{
+		"id": "50045",
+		"name": "Idu",
+		"state_id": "2650"
+	},
+	{
+		"id": "50046",
+		"name": "Ekparakwa",
+		"state_id": "2650"
+	},
+	{
+		"id": "50047",
+		"name": "Arochukwu",
+		"state_id": "2650"
+	},
+	{
+		"id": "50048",
+		"name": "Ikot Udo Abia",
+		"state_id": "2650"
+	},
+	{
+		"id": "50049",
+		"name": "Adadia",
+		"state_id": "2650"
+	},
+	{
+		"id": "50050",
+		"name": "Ikot Ukpong",
+		"state_id": "2650"
+	},
+	{
+		"id": "50051",
+		"name": "Ikot Okoro",
+		"state_id": "2650"
+	},
+	{
+		"id": "50052",
+		"name": "Ekpene Ukim",
+		"state_id": "2650"
+	},
+	{
+		"id": "50053",
+		"name": "Ikot Ibritan",
+		"state_id": "2650"
+	},
+	{
+		"id": "50054",
+		"name": "Obio Akpa",
+		"state_id": "2650"
+	},
+	{
+		"id": "50055",
+		"name": "Ikot Akpa Nkuk",
+		"state_id": "2650"
+	},
+	{
+		"id": "50056",
+		"name": "Ntak Ibesit",
+		"state_id": "2650"
+	},
+	{
+		"id": "50057",
+		"name": "Usuk Obio Ediene",
+		"state_id": "2650"
+	},
+	{
+		"id": "50058",
+		"name": "Ikot Afanga",
+		"state_id": "2650"
+	},
+	{
+		"id": "50059",
+		"name": "Ediene",
+		"state_id": "2650"
+	},
+	{
+		"id": "50060",
+		"name": "Obio Ndobo",
+		"state_id": "2650"
+	},
+	{
+		"id": "50061",
+		"name": "Ikot Obio",
+		"state_id": "2650"
+	},
+	{
+		"id": "50062",
+		"name": "Gwagwalada",
+		"state_id": "2648"
+	},
+	{
+		"id": "50063",
+		"name": "Kuje",
+		"state_id": "2648"
+	},
+	{
+		"id": "50064",
+		"name": "Kwali",
+		"state_id": "2648"
+	},
+	{
+		"id": "50065",
+		"name": "Abaji",
+		"state_id": "2648"
+	},
+	{
+		"id": "50066",
+		"name": "New Karu",
+		"state_id": "2648"
+	},
+	{
+		"id": "50067",
+		"name": "Suleja",
+		"state_id": "2648"
+	},
+	{
+		"id": "50068",
+		"name": "Bwari",
+		"state_id": "2648"
+	},
+	{
+		"id": "50069",
+		"name": "Keffi",
+		"state_id": "2648"
+	},
+	{
+		"id": "50070",
+		"name": "Madalla",
+		"state_id": "2648"
 	}
 
 ]
