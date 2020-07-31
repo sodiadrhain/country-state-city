@@ -242696,6 +242696,11 @@
 		"id": "50121",
 		"name": "Ntankpo",
 		"state_id": "2656"
+	},
+	{
+		"id": "50122",
+		"name": "AMAC (Abuja Municipal Area Council)",
+		"state_id": "2648"
 	}
 
 ]
