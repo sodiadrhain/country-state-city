@@ -242701,6 +242701,135 @@
 		"id": "50122",
 		"name": "AMAC (Abuja Municipal Area Council)",
 		"state_id": "2648"
+	},
+	{
+		"id": "50123",
+		"name": "Cokato",
+		"state_id": "3946"
+	},
+	{
+		"id": "50124",
+		"name": "Byram",
+		"state_id": "3947"
+	},
+	{
+		"id": "50124",
+		"name": "Agana Heights",
+		"state_id": "4122"
+	},
+	{
+		"id": "50125",
+		"name": "Agat",
+		"state_id": "4122"
+	},
+	{
+		"id": "50126",
+		"name": "Asan‑Maina",
+		"state_id": "4122"
+	},
+	{
+		"id": "50127",
+		"name": "Barrigada",
+		"state_id": "4122"
+	},
+	{
+		"id": "50128",
+		"name": "Chalan Pago‑Ordot",
+		"state_id": "4122"
+	},
+	{
+		"id": "50129",
+		"name": "Agana Heights",
+		"state_id": "4122"
+	},
+	{
+		"id": "50130",
+		"name": "Dededo",
+		"state_id": "4122"
+	},
+	{
+		"id": "50131",
+		"name": "Hagåtña",
+		"state_id": "4122"
+	},
+	{
+		"id": "50132",
+		"name": "Inarajan",
+		"state_id": "4122"
+	},
+	{
+		"id": "50133",
+		"name": "Mangilao",
+		"state_id": "4122"
+	},
+	{
+		"id": "50134",
+		"name": "Merizo",
+		"state_id": "4122"
+	},	{
+		"id": "50135",
+		"name": "Mongmong‑Toto‑Maite",
+		"state_id": "4122"
+	},
+	{
+		"id": "50136",
+		"name": "Piti",
+		"state_id": "4122"
+	},
+	{
+		"id": "50137",
+		"name": "Santa Rita",
+		"state_id": "4122"
+	},
+	{
+		"id": "50138",
+		"name": "Sinajana",
+		"state_id": "4122"
+	},
+	{
+		"id": "50139",
+		"name": "Talofofo",
+		"state_id": "4122"
+	},
+	{
+		"id": "50140",
+		"name": "Tamuning",
+		"state_id": "4122"
+	},
+	{
+		"id": "50141",
+		"name": "Umatac",
+		"state_id": "4122"
+	},
+	{
+		"id": "50142",
+		"name": "Yigo",
+		"state_id": "4122"
+	},
+	{
+		"id": "50143",
+		"name": "Yona",
+		"state_id": "4122"
+	},
+	{
+		"id": "50144",
+		"name": "Medfield",
+		"state_id": "3946"
+	},
+	{
+		"id": "50145",
+		"name": "Ontario",
+		"state_id": "3924"
+	},
+	{
+		"id": "50146",
+		"name": "Ramey",
+		"state_id": "3946"
+	},
+	{
+		"id": "50147",
+		"name": "Sublimity",
+		"state_id": "3962"
 	}
 
 ]
