@@ -111339,11 +111339,7 @@
 		"name": "San Bartolomeo",
 		"state_id": "1814"
 	},
-	{
-		"id": "22269",
-		"name": "",
-		"state_id": "1815"
-	},
+
 	{
 		"id": "22270",
 		"name": "Bagnatica",
@@ -242494,7 +242490,7 @@
 	},
 	{
 		"id": "50081",
-		"name": "",
+		"name": "Agarabe",
 		"state_id": "2656"
 	},
 	{
