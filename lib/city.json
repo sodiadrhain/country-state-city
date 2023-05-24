@@ -242826,6 +242826,45 @@
 		"id": "50147",
 		"name": "Sublimity",
 		"state_id": "3962"
-	}
-
+	},
+	{
+        "id": "50148",
+        "name": "Chinsali",
+        "state_id": "4123"
+    },
+    {
+        "id": "50149",
+        "name": "Isoka",
+        "state_id": "4123"
+    },
+    {
+        "id": "50150",
+        "name": "Kachibiya",
+        "state_id": "4123"
+    },
+    {
+        "id": "50151",
+        "name": "Lavushimanda",
+        "state_id": "4123"
+    },
+    {
+        "id": "50152",
+        "name": "Mafinga",
+        "state_id": "4123"
+    },
+    {
+        "id": "50153",
+        "name": "Mpika",
+        "state_id": "4123"
+    },
+    {
+        "id": "50154",
+        "name": "Nakonde",
+        "state_id": "4123"
+    },
+    {
+        "id": "50155",
+        "name": "Shiwang'andu",
+        "state_id": "4123"
+    }
 ]
